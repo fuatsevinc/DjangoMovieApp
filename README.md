@@ -1,9 +1,3 @@
-
-# Django Movie 
-
-django ile movie app 
-
-
 # Django Movie Projesi
 
 
